@@ -16,8 +16,8 @@ End the program
 
 
 ## Program:
-DEVOLPED BY: NIRANJAN S
-REGD NO.: 24900209
+## DEVOLPED BY: NIRANJAN S
+## REGD NO.: 24900209
 ```
 import numpy as np
 A=np.array([[3,2,5],[1,1,2],[3,3,6]])
